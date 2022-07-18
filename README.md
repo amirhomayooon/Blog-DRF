@@ -1,1 +1,1 @@
-#📍 Basic Blog With Django REST Framework
+📍 Basic Blog With Django REST Framework
